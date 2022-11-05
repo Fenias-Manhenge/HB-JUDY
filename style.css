@@ -16,3 +16,19 @@ h1 {
   -webkit-user-select: none;
   user-select: none;
 }
+
+a{
+  color: white;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 60%;
+  left: 50%;
+  text-decoration: none;
+}
+
+audio{
+  position: absolute;
+  transform: translate(-50%, -50%);
+  top: 80%;
+  left: 50%;
+}
